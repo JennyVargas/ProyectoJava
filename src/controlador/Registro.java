@@ -88,7 +88,7 @@ public class Registro {
             return false;
         }
     }
-
+}
     
 
 
